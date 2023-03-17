@@ -1,0 +1,6 @@
+# 1. Create a model for a question in the quiz. (create a Question class)
+# 2. Create question objects for a question bank.
+# 3. Todos:
+# - asking the question
+# - checking if the asnwer was correct
+# - checking if we are at the end of the quiz
